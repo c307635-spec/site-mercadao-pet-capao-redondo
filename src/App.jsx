@@ -1,6 +1,6 @@
 import{useMemo,useState}from"react";
 import{ArrowRight,Bone,Cat,Check,ChevronDown,Clock3,Dog,HeartPulse,MapPin,Menu,MessageCircle,PackageCheck,PawPrint,Phone,Pill,Search,ShieldCheck,ShoppingBag,Sparkles,Tag,Truck,X}from"lucide-react";
-const B={name:"Mercadão Pet Capão Redondo",wa:"5511913170757",waDisplay:"(11) 91317-0757",phone:"(11) 2368-4371",phoneLink:"tel:+551123684371",address:"Av. Ellis Maas, 641 - Capão Redondo, São Paulo - SP, 05859-000",maps:"https://www.google.com/maps/search/?api=1&query=Av.%20Ellis%20Maas%20641%20Cap%C3%A3o%20Redondo%20S%C3%A3o%20Paulo%20SP%2005859-000"};
+const B={name:"Mercadão Pet Capão Redondo",wa:"551123684371",waDisplay:"(11) 2368-4371",phone:"(11) 2368-4371",phoneLink:"tel:+551123684371",address:"Av. Ellis Maas, 641 - Capão Redondo, São Paulo - SP, 05859-000",maps:"https://www.google.com/maps/search/?api=1&query=Av.%20Ellis%20Maas%20641%20Cap%C3%A3o%20Redondo%20S%C3%A3o%20Paulo%20SP%2005859-000"};
 const products=[
 {id:1,cat:"Rações",icon:Dog,name:"Ração Premium para cães",detail:"Pacote demonstrativo de 15 kg",price:159.90,old:179.90,badge:"Oferta exemplo"},
 {id:2,cat:"Rações",icon:Cat,name:"Ração para gatos castrados",detail:"Pacote demonstrativo de 10 kg",price:139.90},
